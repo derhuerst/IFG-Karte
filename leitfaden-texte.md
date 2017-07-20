@@ -1,6 +1,6 @@
 Grundlegendes
 
-Ich habe eine Mail von FragDenStaat.de erhalten - Was ist das? .	5
+Ich habe eine Mail von FragDenStaat.de erhalten - Was ist das?	5
 
 Wie läuft der Prozess der Antragsstellung über FragDenStaat ab?	5
 
@@ -26,11 +26,11 @@ Muss ich nicht nach der Adresse des/der AnfragestellerIn fragen?	10
 
 Fehler & Korrekturen
 
-Ich kann online eine Anfrage sehen, die ich nie empfangen habe	11
+Ich kann online eine Anfrage sehen, die ich nie empfangen habe.	11
 
 An welche Adresse sendet FragDenStaat.de die Anfragen?	11
 
-Meine Antwort erscheint online nicht oder wird falsch klassifiziert	12
+Meine Antwort erscheint online nicht oder wird falsch klassifiziert.	12
 
 Weitere Informationen
 
@@ -41,8 +41,8 @@ Wer sendet über FragDenStaat Nachrichten, wer schwärzt sie?	13
 Wieso ähneln sich die Anfragen, die ich erhalte?	14
 
 Mehr als die Hälfte aller Anfragen an Bundes- und Landesbehörden nach den Informationsfreiheitsgesetzen werden in Deutschland über die gemeinnützige Plattform FragDenStaat.de gestellt.
-Seitdem der Open Knowledge Foundation Deutschland e.V. 2011 die Webseite ins Leben gerufen hat, ist sie zu einem unversichtbaren Teil der Informationsfreiheit in Deutschland geworden.
-Gleichzeitig ist vielen Menschen, die Anfragen über die Plattform erhalten, nicht immer klar, wie sie funktioniert, was sie bei einer Antwort zu beachten haben und welche Möglichkeiten FragDenStaat bietet.
+Seitdem der Open Knowledge Foundation Deutschland e.V. 2011 die Webseite ins Leben gerufen hat, ist sie zu einem unverzichtbaren Teil der Informationsfreiheit in Deutschland geworden.
+Gleichzeitig ist vielen Menschen, die Anfragen über die Plattform erhalten, nicht immer klar, wie sie funktioniert, was sie bei einer Antwort zu beachten haben, und welche Möglichkeiten FragDenStaat bietet.
 Das möchten wir mit diesem Leitfaden ändern. Er zeigt anhand von Fragen und Screenshots der Online-Plattform auf, wie FragDenStaat funktioniert und welche Idee dahintersteckt. 
 Falls Sie weitere Fragen haben, nehmen wir sie gerne in diesen Leitfaden auf. Er soll ständig erweitert werden. Kontaktieren Sie uns dafür bitte unter 
 info@fragdenstaat.de!
@@ -58,16 +58,16 @@ Antworten nach dem IFG dürfen in der Regel veröffentlicht werden. Wir betracht
 
 Wie läuft der Prozess der Antragsstellung über FragDenStaat ab?
 
-Um gut nachzuvollziehen, wie der Prozess verläuft, raten wir Ihnen, selbst eine Anfrage zu stellen. Dazu steht eine Behörde namens „Testbehörde“ bereit, an die Sie eine Anfrage senden können.
+Um gut nachvollziehen zu können, wie der Prozess verläuft, raten wir Ihnen, selbst eine Anfrage zu stellen. Dazu steht eine Behörde namens „Testbehörde“ bereit, an die Sie eine Anfrage senden können.
 
 Sie finden die Testbehörde unter
 https://fragdenstaat.de/behoerde/testbehorde/
 
 Wie gehe ich mit pseudonymen Anfragen um? Warum sehen FragDenStaat-Mailadressen so kryptisch aus?
 
-Hinter allen Anfragen über FragDenStaat stehen echte Personen. Es kann gute Gründe geben, warum sie ihren Namen nicht offenbaren wollen. Daher möchten wir es allen Menschen erlauben, grundsätzlich auch pseudonyme Anfragen zu stellen, auch wenn der überwiegende Teil der NutzerInnen ihren echten Namen angibt. 
+Hinter allen Anfragen über FragDenStaat stehen echte Personen. Es kann gute Gründe geben, warum sie ihren Namen nicht offenbaren wollen. Daher möchten wir es allen Menschen erlauben, grundsätzlich auch pseudonyme Anfragen zu stellen, auch wenn der überwiegende Teil der NutzerInnen seinen echten Namen angibt. 
 Da das IFG ein Jedermannrecht ist, ist es nicht nötig, nach einem Namen zu fragen, da ohnehin alle Personen das gleiche Auskunftsrecht haben. Wir empfehlen daher, alle Anfragen gleich zu behandeln, ob sie mit Pseudonym gestellt wurden oder nicht.
-Um einen Überblick über die Antworten zu behalten, erstellen wir computergenerierte für jede Anfrage eine eigene Mailadresse, die aus dem Nutzernamen und einem Code besteht. Ehe ein Benutzer jedoch eine Anfrage stellen kann, muss er sich auf der Website mit einer persönlichen Mailadresse registrieren, die wir überprüfen können. Sie können diese Seite durchsuchen und werden eine Übersicht aller Anfragen finden, die jede Person gestellt hat.
+Um einen Überblick über die Antworten zu behalten, erstellen wir für jede Anfrage eine eigene, computergenerierte Mailadresse, die aus dem Nutzernamen und einem Code besteht. Ehe ein Benutzer jedoch eine Anfrage stellen kann, muss er/sie sich auf der Website mit einer persönlichen Mailadresse registrieren, die wir überprüfen können. Sie können diese Seite durchsuchen und werden eine Übersicht aller Anfragen finden, die jede Person gestellt hat.
 
 Beispieladresse:      
 a.semsrott.abc123@fragdenstaat.de
@@ -76,7 +76,7 @@ Wie beantworte ich Anfragen so, dass die Privatsphäre gewahrt wird? Wie wird ge
 
 In denen von Ihnen gesendeten E-Mails werden Ihre Namen und Kontaktdaten von einem Algorithmus automatisch für die Öffentlichkeit geschwärzt, wenn Sie etwa hinter bekannten Formeln wie „Im Auftrag“ oder „Mit freundlichen Grüßen“ stehen. Nur die jeweiligen AntragstellerInnen können den Namen sehen.
 Deshalb können Sie ihre Mails wie gewohnt schreiben und unser System entfernt personenbezogene Daten. Leider geht dies nicht automatisch in PDF-Anhängen. Diese werden zunächst nicht veröffentlicht und müssen von den NutzerInnen mit einem Schwärzungstool auf FragDenStaat.de geschwärzt werden, bevor sie veröffentlicht werden. Wir empfehlen Ihnen, Ihre Antworten immer direkt als Text in E-Mails zu schreiben.
-Bitte weisen Sie uns darauf hin, falls personenbezogene Daten veröffentlicht werden, eine Adresse übersehen haben. Aus technischen Gründen können wir sie allerdings nicht aus Anhängen, wie etwa PDFs, entfernen. Wir fordern NutzerInnen daher dazu auf, dies über ein Schwärzungs-Tool auf FragDenStaat vor der Veröffentlichung zu tun.
+Bitte weisen Sie uns darauf hin, falls personenbezogene Daten veröffentlicht werden, wenn wir z.B. eine Adresse übersehen haben. Aus technischen Gründen können wir sie allerdings nicht aus Anhängen, wie etwa PDFs, entfernen. Wir fordern NutzerInnen daher dazu auf, dies über ein Schwärzungs-Tool auf FragDenStaat vor der Veröffentlichung zu tun.
 
 Sollte ich die Anfrage per Mail oder per Post beantworten?
 
@@ -92,7 +92,7 @@ Wenn Sie Antworten per Post verschicken, müssen die NutzerInnen die Antwort ein
 
 Sollte ich Gebühren erheben oder nicht?
 
-Die Informationsfreiheit ist in Artikel 5 des Grundgesetzes als eines der Grundrechte verankert. Deswegen sind wir der Meinung, dass diese Informationen auch jedem, ungeachtet seiner finanziellen Ausstattung, zugänglich sein sollten. Wir möchten Sie daher bitten, von der Erhebung von Gebühren abzusehen. Sie ist ohnehin in der Regel nicht kostendeckend und bereitet zusätzliche Arbeit.
+Die Informationsfreiheit ist in Artikel 5 des Grundgesetzes als eines der Grundrechte verankert. Deswegen sind wir der Meinung, dass diese Informationen auch jedem/r, ungeachtet seiner/ihrer finanziellen Ausstattung, zugänglich sein sollten. Wir möchten Sie daher bitten, von der Erhebung von Gebühren abzusehen. Sie ist ohnehin in der Regel nicht kostendeckend und bereitet zusätzliche Arbeit.
 
 Muss ich nicht nach der Adresse des/der AnfragestellerIn fragen?
 
@@ -108,7 +108,7 @@ Wenn Sie uns dazu auffordern, werden wir jede Anfrage erneut verschicken und lie
 
 An welche Adresse meiner Behörde sendet FragDenStaat.de die Anfragen? Wie kann ich das ändern?
 
-Die Behörden werden von unseren AdministratorInnen eingetragen. Gelegentlich schlagen NutzerInnen Behörden vor, die sie gerne in unserer Liste hätten, damit sie Anfragen stellen können. Sollten diese noch nicht verzeichnet sein, dann suchen wir die passende  Mailadresse heraus und tragen sie in unser System ein. Oft greifen wir dabei auf die allgemeinen Kontaktmaildressen von Behörden zurück. Sollte dies nicht die richtige sein, dann können Sie uns gerne kontaktieren und die richtige Mailadresse zukommen lassen.
+Die Behörden werden von unseren AdministratorInnen eingetragen. Gelegentlich schlagen NutzerInnen Behörden vor, die sie gerne in unserer Liste hätten, damit sie Anfragen stellen können. Sollten diese noch nicht verzeichnet sein, dann suchen wir die passende Mailadresse heraus und tragen sie in unser System ein. Oft greifen wir dabei auf die allgemeinen Kontakt-Mailadressen von Behörden zurück. Sollte diese nicht die richtige sein, dann können Sie uns gerne kontaktieren und die richtige Mailadresse zukommen lassen.
 
 Meine Antworten erscheinen nicht auf FragDenStaat oder werden falsch klassifiziert. Was tun?
 
@@ -121,13 +121,13 @@ FragDenStaat macht es AntragsstellerInnen möglich, direkt über die Plattform i
 
 Wie wird die Frist festgelegt, innerhalb der die Anfrage beantwortet sein muss?
 
-Nach den Informationsfreiheitsgesetzen muss der Informationszugang unverzüglich gewährt werden maximal innerhalb eines Monats.
+Nach den Informationsfreiheitsgesetzen muss der Informationszugang unverzüglich gewährt werden, maximal innerhalb eines Monats.
 Das Gesetz fordert demnach eine rasche Antwort. Falls Sie absehen können, dass die Beantwortung einer Anfrage aus gutem Grund länger braucht, wissen AntragsstellerInnen es zu schätzen, wenn Sie die Fristüberschreitung in einer E-Mail mit wenigen erklärenden Sätzen ankündigen.
 Wir errechnen die maximale gesetzliche Frist nach § 188 BGB und beachten dabei die bundesweiten gesetzlichen Feiertage, jedoch nicht die regionalen Feiertage. Die angezeigte Frist wird so automatisch generiert.
 
 Wer sendet über FragDenStaat Nachrichten, wer schwärzt und veröffentlicht?
 
-Inhaltlich verantwortlich sind alleine die AntragsstellerInnen selbst, die FragDenStaat.de lediglich als Plattform für ihre Anfrage nutzen. Alle Nachrichten, die Sie erhalten, werden aber von den NutzerInnen selbst verschickt. Auch die Veröffentlichung und die Schwärzung der Dokumente wird von den NutzerInnen selbst übernommen.
+Inhaltlich verantwortlich sind alleine der/die AntragsstellerInnen selbst, die FragDenStaat.de lediglich als Plattform für ihre Anfrage nutzen. Alle Nachrichten, die Sie erhalten, werden aber von den NutzerInnen selbst verschickt. Auch die Veröffentlichung und die Schwärzung der Dokumente wird von den NutzerInnen selbst übernommen.
 
 Wieso ähneln sich die Anfragen, die ich erhalte?
 
